@@ -1,0 +1,12 @@
+D:\Desarrollo\FileS3\FileS31\DynamoDb.Libs\bin\Debug\net6.0\DynamoDb.Libs.deps.json
+D:\Desarrollo\FileS3\FileS31\DynamoDb.Libs\bin\Debug\net6.0\DynamoDb.Libs.dll
+D:\Desarrollo\FileS3\FileS31\DynamoDb.Libs\bin\Debug\net6.0\DynamoDb.Libs.pdb
+D:\Desarrollo\FileS3\FileS31\DynamoDb.Libs\obj\Debug\net6.0\DynamoDb.Libs.csproj.AssemblyReference.cache
+D:\Desarrollo\FileS3\FileS31\DynamoDb.Libs\obj\Debug\net6.0\DynamoDb.Libs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\FileS3\FileS31\DynamoDb.Libs\obj\Debug\net6.0\DynamoDb.Libs.AssemblyInfoInputs.cache
+D:\Desarrollo\FileS3\FileS31\DynamoDb.Libs\obj\Debug\net6.0\DynamoDb.Libs.AssemblyInfo.cs
+D:\Desarrollo\FileS3\FileS31\DynamoDb.Libs\obj\Debug\net6.0\DynamoDb.Libs.csproj.CoreCompileInputs.cache
+D:\Desarrollo\FileS3\FileS31\DynamoDb.Libs\obj\Debug\net6.0\DynamoDb.Libs.dll
+D:\Desarrollo\FileS3\FileS31\DynamoDb.Libs\obj\Debug\net6.0\refint\DynamoDb.Libs.dll
+D:\Desarrollo\FileS3\FileS31\DynamoDb.Libs\obj\Debug\net6.0\DynamoDb.Libs.pdb
+D:\Desarrollo\FileS3\FileS31\DynamoDb.Libs\obj\Debug\net6.0\ref\DynamoDb.Libs.dll
